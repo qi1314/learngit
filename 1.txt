@@ -1,3 +1,7 @@
 ﻿dbhdb DSM
 DNSKJDMSD
-SDMKD2222
+<<<<<<< HEAD
+SDMKD33333
+=======
+SDMKD33333
+>>>>>>> dev1
